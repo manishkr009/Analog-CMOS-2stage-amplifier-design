@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2a74094ffc02160",
+  "active": "73614f74a099d15a",
   "lastOpenFiles": [
     "Untitled.md",
     "Design of 2 stage amplifier using GmId method.md",
