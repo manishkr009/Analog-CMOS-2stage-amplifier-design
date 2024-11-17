@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Design of 2 stage amplifier using GmId method"
             }
+          },
+          {
+            "id": "a2a74094ffc02160",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,13 +155,23 @@
               "icon": "lucide-list",
               "title": "Outline of Research topic- RF energy harvesting"
             }
+          },
+          {
+            "id": "baf81896fa6a1d06",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,11 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73614f74a099d15a",
+  "active": "a2a74094ffc02160",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Design of 2 stage amplifier using GmId method.md",
     "Untitled",
     "Analog-CMOS-2Stage-amplifier-design",
-    "Design of 2 stage amplifier using GmId method.md",
     "Pasted image 20241118000918.png",
     "Pasted image 20241118000854.png",
     "hand calculation circuit.jpg",
